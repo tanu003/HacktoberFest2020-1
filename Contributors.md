@@ -143,3 +143,8 @@ Name: [Harsh Vijay](https://github.com/hvijaycse)<br/>
 Place: Pink City, India<br/>
 About: ML Developer<br/>
 <br/>
+
+Name: Tanu B<br/>
+Place: Sydney, NSW<br/>
+About: Associate<br/>
+<br/>
